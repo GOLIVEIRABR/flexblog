@@ -2,9 +2,9 @@
 
 ## Descrição
 
-Este projeto foi realizado objetivando o treinamento do recurso de Flexbox do CSS3. Toda o posicionamento dos itens no site foi realizando utilizando esta técnica.
+Este projeto foi realizado objetivando o treinamento do recurso de Flexbox do CSS3. Todo o posicionamento dos itens no site foi concluído utilizando esta técnica.
 
-Uma previsualização do resultado final pode ser encontrada [aqui](https://goliveirabr.github.io/flexblog/).
+Uma pré-visualização do resultado final pode ser encontrada [aqui](https://goliveirabr.github.io/flexblog/).
 
 
 
